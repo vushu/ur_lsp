@@ -1,3 +1,3 @@
-[submodule "external/mongoose"]
-	path = externals/mongoose
-	url = https://github.com/cesanta/mongoose.git
+[submodule "externals/json-rpc-cxx"]
+	path = externals/json-rpc-cxx
+	url = https://github.com/jsonrpcx/json-rpc-cxx.git
