@@ -1,0 +1,3 @@
+[submodule "external/mongoose"]
+	path = externals/mongoose
+	url = https://github.com/cesanta/mongoose.git
